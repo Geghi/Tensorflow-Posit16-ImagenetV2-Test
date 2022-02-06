@@ -1,0 +1,6 @@
+,Model Name,Accuracy
+0,VGG16,50.39
+1,VGG19,50.57
+2,ResNet50,54.05
+3,InceptionResNetV2,67.37
+4,InceptionV3,63.49
